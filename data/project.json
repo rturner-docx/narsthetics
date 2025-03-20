@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "rturner-docx",
+    "is_private": false,
+    "title": "parting of the sensory: narcotics and aesthetic experience",
+    "description": "This project collects and presents aesthetic objects that thematize narcotic experience. These objects are not necessarily \"about\" narcotics; though they often discuss or concern narcotic experience, the drug and/or the drink is not a mere plot point, not does it service conflict, resolution, or parable. Each object offers an opportunity to interpret the role of sensory modification in aesthetic and/or everyday experience, but they also offer methods for experiential experimentation that challenge the cultural assumption that clarity/cleanliness/sobriety is morally good. These objects, I argue, beg us to ask more interesting questions about narcotics/sensory modification/our vices than: are they good or bad? ",
+    "language": "en",
+    "slug": "narsthetics",
+    "creator": "rturner-docx",
+    "authors": "Rianna Turner",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-03-20T17:14:03.739Z",
+    "updated_at": "2025-03-20T17:14:03.739Z"
   }
 }
