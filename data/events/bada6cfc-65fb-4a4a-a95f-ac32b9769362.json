@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "522940bb-5da8-464b-94eb-19d6146b0d09": {
+      "label": "David Berman reading \"Governors on Sominex\"",
+      "is_offline": false,
+      "file_url": "https://www.youtube.com/watch?v=yuFY1GIVFJQ",
+      "duration": 90,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Video",
+  "label": "David Berman's \"Governors on Sominex\" ",
+  "created_at": "2025-03-20T17:57:55.800Z",
+  "created_by": "rturner-docx",
+  "updated_at": "2025-03-20T17:57:55.800Z",
+  "updated_by": "rturner-docx"
+}
