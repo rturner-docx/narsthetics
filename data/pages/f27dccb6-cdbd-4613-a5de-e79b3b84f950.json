@@ -1,0 +1,41 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "file:///Users/riannaturner/Desktop/images.jpg",
+      "size": "medium",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "placebo (2025) ",
+  "parent": "d9951970-77d9-4be3-a7ce-12038b5889c0",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "placebo-2025",
+  "created_at": "2025-03-22T00:30:31.728Z",
+  "created_by": "rturner-docx",
+  "updated_at": "2025-03-22T00:30:31.728Z",
+  "updated_by": "rturner-docx"
+}
