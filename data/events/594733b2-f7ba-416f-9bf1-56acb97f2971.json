@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "e2d55b57-6de2-49a3-b503-4aaec17a447a": {
+      "label": "\"Reveries — Passions\"",
+      "is_offline": false,
+      "file_url": "https://www.youtube.com/watch?v=5HgqPpjIH5c&t=853s",
+      "duration": 912,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Video",
+  "label": "Hector Berlioz, Symphonie Fantastique, \"1. Reveries — Passions\"",
+  "created_at": "2025-04-04T19:09:18.631Z",
+  "created_by": "rturner-docx",
+  "updated_at": "2025-04-04T19:09:18.631Z",
+  "updated_by": "rturner-docx"
+}
