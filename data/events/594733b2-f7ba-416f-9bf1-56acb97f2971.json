@@ -14,7 +14,105 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "The tale of Hector Berlioz’s "
+        },
+        {
+          "text": "Symphonie Fantastique",
+          "italic": true
+        },
+        {
+          "text": " is relatively well-known: a rare example of congruence between and biographical events and their aesthetic representations. Berlioz — trained in medicine before changing his course of study to music and literature, much to the dismay of his mother — loved Shakespeare. One evening, he attended a performance of "
+        },
+        {
+          "text": "Hamlet",
+          "italic": true
+        },
+        {
+          "text": " in which the actress Harriet Smithson played Ophelia. Though the two eventually married, Berlioz spent some years in longing, his love unrequited and unconsummated. (Smithson was, according to the rumor mill of history, romantically involved with her manager.) "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Berlioz then composed a symphony with a narrative program — one of the first, at that — and described it as such: "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "“I conceive an artist, gifted with a lively imagination, who…sees for the first time a woman who realises the ideal of beauty and fascination that his heart has so long invoked, and falls madly in love with her. By a strange quirk, the image of the loved one never appears before his mind’s eye with its corresponding musical idea, in which he finds a quality of grace and nobility similar to that which he attributes to the beloved object.”"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This “corresponding musical idea” is called the "
+        },
+        {
+          "text": "idée fixe",
+          "italic": true
+        },
+        {
+          "text": ", or, preoccupation of the mind. It’s a psychological term that was carried into music to describe what is essentially a motif. (Berlioz’s obsessive musical phrase precedes Wagnerian leitmotifs and their attendant discourse.) "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Here’s the "
+        },
+        {
+          "text": "notation of the preoccupation",
+          "link": "https://en.wikipedia.org/wiki/Symphonie_fantastique"
+        },
+        {
+          "text": ". Notice how it holds tension over the bar line. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "One could argue, then, that Berlioz’s formal discoveries are somewhat inseparable from his feelings for Harriet Smithson. While this may suggest that Berlioz’s inventiveness is linked entirely to intimacy, I can’t help but recall Frank O’Hara’s quasi-satirical theory of Personism, in which a poet uses poetic address to reorient feelings of love away from the romantic object and toward the poem, and marshaling the creative potential of a feeling without, somehow, becoming distracted by actually feeling the feeling. Art, or the ur-abstraction of feeling, is not actually about “intimacy” at all. The symphony is placed between Berlioz and Harriet. The symphony, in its aestheticization and thus abstraction of feeling, both is a modification of the sensed and modifies the senses; it is a representation of a narcotic (love) and a narcotizing force that preserves love as a feeling via representation."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The opiate-before-opium (that part comes later), then, is the "
+        },
+        {
+          "text": "idée fixe",
+          "italic": true
+        },
+        {
+          "text": ", the sonic abstraction of a feeling, that somehow never indicates the lover’s literal presence, only the lover’s figural quality, held gently before the initial "
+        },
+        {
+          "text": "allegro",
+          "italic": true
+        },
+        {
+          "text": ". "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "While listening, attend to each instance of the motif. When does it occur? When does it stand out, and when is it integrated into experiential texture? Does it ground the listener, counterintuitively relocating the listener in the symphonic narrative? Or do you find yourself following it, waiting for it, obsessed with obsession?"
         }
       ]
     }
@@ -24,6 +122,6 @@
   "label": "Hector Berlioz, Symphonie Fantastique, \"1. Reveries — Passions\"",
   "created_at": "2025-04-04T19:09:18.631Z",
   "created_by": "rturner-docx",
-  "updated_at": "2025-04-04T19:12:53.046Z",
+  "updated_at": "2025-04-04T19:39:30.709Z",
   "updated_by": "rturner-docx"
 }
