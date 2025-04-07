@@ -62,7 +62,21 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "There are some fairly obvious reasons why Infinite Jest belongs in this exhibit. The book’s title comes from the graveyard scene in Shakespeare’s Hamlet (“Alas, poor Yorick! I knew him, Horatio: a fellow/ of infinite jest, of most excellent fancy: he hath/ borne me on his back a thousand times”) and from a diegetic film by James Incandenza that is so compelling, viewers replay it until they die. (One plot line tracks a Québécois radicalist group’s attempt to acquire a copy of the morbid entertainment, for purposes of terrorism, before the United States’ Office of Unspecified Services can. Entertainment-as-terrorism — I mustn’t continue!) The book’s chapter detailing the kinds of people one meets in Boston AA belongs in the Louvre. I am interested, though, in what TIBBIT, an anonymized commenter on the e-book-club “Infinite Summer” (2009) considers one of the most disappointing moments of this 500,000-word novel: Hal’s visit to a men’s movement meeting, which he initially believes is a Narcotics Anonymous meeting. "
+          "text": "There are some fairly obvious reasons why "
+        },
+        {
+          "text": "Infinite Jest",
+          "italic": true
+        },
+        {
+          "text": " belongs in this exhibit. The book’s title comes from the graveyard scene in Shakespeare’s "
+        },
+        {
+          "text": "Hamlet",
+          "italic": true
+        },
+        {
+          "text": " (“Alas, poor Yorick! I knew him, Horatio: a fellow/ of infinite jest, of most excellent fancy: he hath/ borne me on his back a thousand times”) and from a diegetic film by James Incandenza that is so compelling, viewers replay it until they die. (One plot line tracks a Québécois radicalist group’s attempt to acquire a copy of the morbid entertainment, for purposes of terrorism, before the United States’ Office of Unspecified Services can. Entertainment-as-terrorism — I mustn’t continue!) The book’s chapter detailing the kinds of people one meets in Boston AA belongs in the Louvre. I am interested, though, in what TIBBIT, an anonymized commenter on the e-book-club “Infinite Summer” (2009) considers one of the most disappointing moments of this 500,000-word novel: Hal’s visit to a men’s movement meeting, which he initially believes is a Narcotics Anonymous meeting. "
         }
       ]
     },
@@ -210,6 +224,6 @@
   "slug": "david-foster-wallaces-infinite-jest-1996",
   "created_at": "2025-04-07T01:43:17.926Z",
   "created_by": "rturner-docx",
-  "updated_at": "2025-04-07T01:46:35.919Z",
+  "updated_at": "2025-04-07T01:47:52.112Z",
   "updated_by": "rturner-docx"
 }
