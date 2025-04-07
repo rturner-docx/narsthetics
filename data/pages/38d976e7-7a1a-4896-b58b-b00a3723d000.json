@@ -1,15 +1,1 @@
-{
-  "content": [],
-  "created_at": "2025-04-04T19:43:31.639Z",
-  "created_by": "rturner-docx",
-  "title": "Hector Berlioz, Symphonie Fantastique, \"IV. Marche au supplice\" ",
-  "slug": "hector-berlioz-symphonie-fantastique-iv-m",
-  "updated_at": "2025-04-04T19:43:31.639Z",
-  "updated_by": "rturner-docx",
-  "parent": "d9951970-77d9-4be3-a7ce-12038b5889c0",
-  "autogenerate": {
-    "enabled": true,
-    "type": "event",
-    "type_id": "43e28872-8df2-4a30-88cf-a61990cb2cc8"
-  }
-}
+{"content":[],"created_at":"2025-04-04T19:43:31.639Z","created_by":"rturner-docx","title":"Hector Berlioz, Symphonie Fantastique, \"IV. Marche au supplice\" ","slug":"hector-berlioz-symphonie-fantastique-iv-m","updated_at":"2025-04-04T19:43:31.639Z","updated_by":"rturner-docx","parent":"d9951970-77d9-4be3-a7ce-12038b5889c0","autogenerate":{"enabled":true,"type":"event","type_id":"43e28872-8df2-4a30-88cf-a61990cb2cc8"}}
